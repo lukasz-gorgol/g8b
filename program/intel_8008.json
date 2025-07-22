@@ -1,0 +1,10 @@
+{
+    "source": "program/intel_8008.asm",
+    "binary": "program/intel_8008.bin",
+    "cpu": "8008",
+    "start_addr": "0x8000",
+    "memory_size": 65536,
+    "dump_addrs": "0x0200-0x0201",
+    "xxd": true,
+    "verbose": true
+}
