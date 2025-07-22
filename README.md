@@ -24,7 +24,7 @@ A simple 8-bit processor emulator and assembler written in Go by Lukasz Gorgol.
 
 ## Legal Notice
 
-This software is released under the GNU General Public License v3, which provides strong protection against patent trolls and ensures the software remains free and open source. The author, Lukasz Gorgol, reserves the exclusive right to use this code under any other license terms. No other party may use this code for commercial purposes without explicit written permission from the author.
+This software is released under the custom license, which provides strong protection against patent trolls and ensures the software remains free and open source. The author, Lukasz Gorgol, reserves the exclusive right to use this code under any other license terms. No other party may use this code for commercial purposes without explicit written permission from the author.
 
 Any legal disputes arising from this software shall be resolved exclusively in the courts of Poland, with Polish law being the governing law.
 
