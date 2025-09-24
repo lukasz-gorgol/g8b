@@ -1,5 +1,7 @@
 # Galoping Top
 
+<img src="assets/galoping-top-logo.jpeg" alt="Galoping Top" width="200" style="background: transparent; border: none; border-radius: 10px;">
+
 A simple 8-bit processor emulator and assembler written in Go by Lukasz Gorgol.
 
 **Project website:** https://galoping.top
